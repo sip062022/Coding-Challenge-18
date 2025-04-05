@@ -11,4 +11,4 @@ function Greeting () { // function for greeting
   );
 };
 
-export default Greeting;  
+export default Greeting;  // exports the greeting

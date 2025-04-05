@@ -9,7 +9,7 @@ import Greeting from './components/Greeting' // import the greeting from Greetin
 function App() { // function to crate the counter
   const [count, setCount] = useState(0)
 
-  return (
+  return ( 
     <>
       <div>
         <a href="https://vite.dev" target="_blank">
